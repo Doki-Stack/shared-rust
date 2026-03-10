@@ -1,0 +1,9 @@
+[package]
+name = "doki-shared"
+version = "0.1.0"
+edition = "2021"
+description = "Shared Rust crate — error types, tracing, OTel, axum extractors, sqlx helpers"
+license = "Apache-2.0"
+repository = "https://github.com/Doki-Stack/shared-rust"
+
+[dependencies]
